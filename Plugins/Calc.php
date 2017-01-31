@@ -1,9 +1,9 @@
 <?php
 include "../Access.php";
 include "../index.php";
-/* The Source Bot: @NoMoBot
-Channel News: @Norbert_Team
-Support: @MosiDevBot
+/* The Source Bot: @woow2018
+Channel News: @woow2018
+Support: @woow2018
 */
 if(preg_match('/^\/([Cc]alc) (.*)/s',$text)){
     preg_match('/^\/([Cc]alc) (.*)/s',$text,$match);
