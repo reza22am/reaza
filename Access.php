@@ -15,7 +15,7 @@ Support: @MosiDevBot
 ##------------------------------##
 ob_start();
 ##------------------------------##
-$API_KEY = 'توکن ربات';
+$API_KEY = '262744853:AAEzLkZfOqi0krhHVHTuktfZucw2PgYOBzo';
 $ADMIN = array('260864889','دیگر ادمین ها');
 ##------------------------------##
 define('API_KEY',$API_KEY);
