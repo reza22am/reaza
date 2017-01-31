@@ -1,9 +1,9 @@
 <?php
 include "../Access.php";
 include "../index.php";
-/* The Source Bot: @NoMoBot
-Channel News: @Norbert_Team
-Support: @MosiDevBot
+/* The Source Bot: @jaleberobot
+Channel News: @woow2018
+Support: @woow2018
 */
 if(preg_match("/^\/([Ss]tats)/",$text) and in_array($from_id,$ADMIN) ){
     $user = file_get_contents("Admin/Member.txt");
